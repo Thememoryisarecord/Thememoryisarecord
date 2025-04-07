@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sabrina Jacqueline Salvadpr
+# 👋 Hola, soy Sabrina Jacqueline Salvador
 
 Soy una profesional apasionada por la tecnología, con experiencia como **Desarrolladora Backend**, **Científica de Datos** y **Profesora de programación**. Me encanta crear soluciones prácticas que combinan el desarrollo de software con el análisis de datos para resolver problemas reales.
 
