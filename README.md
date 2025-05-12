@@ -1,16 +1,15 @@
 # 👋 Hola, soy Sabrina Jacqueline Salvador
 
-Soy una profesional apasionada por la tecnología, con experiencia como **Desarrolladora Backend**, **Científica de Datos** y **Profesora de programación**. Me encanta crear soluciones prácticas que combinan el desarrollo de software con el análisis de datos para resolver problemas reales.
+Soy una profesional apasionada por la tecnología, con experiencia como  **Profesora de programación**. Me encanta crear soluciones prácticas para resolver problemas reales.
 
 ---
 
 ## 💻 Desarrolladora 
 
 🔧 Tecnologías principales:
-- Frontend: HTML, CSS, JavaScript, Angular, React
-- Backend: Java (Spring Boot), Node.js, PHP
-- Bases de datos: Firebase, MySQL, PostgreSQL
-- Herramientas: Git, Postman, Docker
+- Frontend: HTML, CSS, JavaScript
+- Bases de datos: Firebase, MySQL
+
 
 📌 Proyectos destacados:
 - [Nombre del proyecto 1](link): Breve descripción
@@ -18,32 +17,7 @@ Soy una profesional apasionada por la tecnología, con experiencia como **Desarr
 
 ---
 
-## 📊 Científica de Datos
 
-🧠 Skills:
-- Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning y Deep Learning
-- Visualización de datos (Matplotlib, Seaborn, Tableau)
-- Limpieza, análisis y modelado de datos
-
-📌 Proyectos destacados:
-- [Predicción de estado de bombas de agua en Tanzania](link): Modelado y análisis de datos geoespaciales
-- [Predicción de precios de acciones con estados financieros](link): Modelos supervisados y análisis financiero
-
-##  👩🏽‍🏫 Profesora de programación
-   - HTML, CSS, JavaScript, Python
-
-📌 Proyectos destacados:
-- [Predicción de estado de bombas de agua en Tanzania](link): Modelado y análisis de datos geoespaciales
-- [Predicción de precios de acciones con estados financieros](link): Modelos supervisados y análisis financiero
-
-## 🌍 Sobre mí
-
-- 🌱 Siempre aprendiendo algo nuevo: ahora mismo profundizando en Azure y microservicios
-- ✨ Experiencia en enseñanza: he sido profesora de programación y AI para niños y adolescentes
-- 🚀 Me apasiona la intersección entre datos, desarrollo y experiencia de usuario
-
----
 
 ## 📫 Conecta conmigo
 
