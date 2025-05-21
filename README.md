@@ -1,6 +1,7 @@
 # 👋 Hola, soy Sabrina Jacqueline Salvador
 
 Soy una profesional apasionada por la tecnología, con experiencia como  **Profesora de programación**. Me encanta crear soluciones prácticas para resolver problemas reales.
+Actualmente estoy enfocada en la ingeniería de datos :)
 
 ---
 
@@ -12,8 +13,8 @@ Soy una profesional apasionada por la tecnología, con experiencia como  **Profe
 
 
 📌 Proyectos destacados:
-- [Nombre del proyecto 1](link): Breve descripción
-- [Nombre del proyecto 2](link): Breve descripción
+- [Nombre del proyecto 1](link): 
+- [Nombre del proyecto 2](link): 
 
 ---
 
